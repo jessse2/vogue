@@ -12,6 +12,7 @@
     background-size: cover;
     padding: 10px 10%;
     overflow: hidden;
+     position: relative;
 }
 nav{
     padding: 10px 0;
